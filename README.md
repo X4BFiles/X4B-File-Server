@@ -1,4 +1,4 @@
-X4B File Server
+X4B File Server (https://x4b.to)
 
 This Go application serves as a simple file server. It lists files in the current directory on the main page, allowing users to download them. It runs on port 80.
 
